@@ -1,3 +1,8 @@
+> **WARNING**: Abandoned project due to transition to TCF v2 standard.
+Info: https://github.com/appnexus/cmp
+
+
+
 [![Build Status](https://travis-ci.org/appnexus/cmp.svg?branch=master)](https://travis-ci.org/appnexus/cmp)
 
 # AppNexus CMP
